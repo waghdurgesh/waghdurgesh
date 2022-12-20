@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3>🔗Connect With🔗</h3>
+<h4>🔗Connect with me on🔗</h4>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
