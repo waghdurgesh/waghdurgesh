@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @waghdurgesh
+<h2>👋 Hi, I’m Durgesh Wagh</h2>
+
 - 👀 I’m interested in learning New Technology, Explore New Concepts
-- 🌱 I’m currently learning JAVA,MySQL,MongoDB,HTML,CSS,JS,NoteJS,ExpressJS,ReactJS,
+- 🌱 I’m currently learning Development of Advanced Computing at CDAC
 - 💞️ I’m looking to collaborate on FullStack Development
 - 📫 You can reach me at [LinekdIn](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
+
 
 <!---
 waghdurgesh/waghdurgesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 <h3>🛠️Languages & Tools🛠️</h3>
 
@@ -32,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 <h3>🔗Connect With🔗</h3>
