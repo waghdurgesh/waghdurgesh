@@ -1,4 +1,5 @@
-<h2>👋 Hi, I’m Durgesh Wagh</h2>
+<h2 align="center">👋 Hi, I’m Durgesh Wagh</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20views&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 
 - 👀 I’m interested in learning New Technology, Explore New Concepts
 - 🌱 I’m currently learning Development of Advanced Computing at CDAC
@@ -12,7 +13,7 @@
 waghdurgesh/waghdurgesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20views&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waghdurgesh" alt="waghdurgesh" /></a> </p>
 
@@ -54,5 +55,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
-
-
