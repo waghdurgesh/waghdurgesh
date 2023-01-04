@@ -1,12 +1,12 @@
 <h2 align="center">👋 Hi, I’m Durgesh Wagh</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20views&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
+
+**********
 
 - 👀 I’m interested in learning New Technology, Explore New Concepts
 - 🌱 I’m currently learning Development of Advanced Computing at CDAC
 - 💞️ I’m looking to collaborate on FullStack Development
 
-
-
+***************
 
 <!---
 - 📫 You can reach me at [LinekdIn](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
@@ -14,9 +14,9 @@ waghdurgesh/waghdurgesh is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waghdurgesh" alt="waghdurgesh" /></a> </p>
 
+*******
 <h3>🛠️Languages & Tools🛠️</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,9 +49,26 @@ You can click the Preview link to take a look at your changes.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
+******
+
+<h4>🔗You can Connect with me🔗</h4>
 
 
-<h4>🔗Connect with me on🔗</h4>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waghdurgesh&show_icons=true&locale=en&layout=compact" alt="waghdurgesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waghdurgesh&show_icons=true&locale=en" alt="waghdurgesh" /></p>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20views&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
+
+
+
+
+
