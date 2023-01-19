@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Durgesh Wagh</h2>
+<h1 align="center">👋 Hi, I’m Durgesh Wagh</h1>
 
 **********
 
