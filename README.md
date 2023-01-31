@@ -2,9 +2,9 @@
 
 **********
 
-- 👀 I’m interested in learning New Technology, Explore New Concepts
+- 👀 Interested in learning New Technology, Explore New Concepts
 - 🌱 I’m currently learning Development of Advanced Computing at CDAC
-- 💞️ I’m looking to collaborate on FullStack Development
+- 💞️ Interested to collaborate on New Concepts & Development Projects.
 
 ***************
 
