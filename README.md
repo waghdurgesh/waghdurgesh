@@ -3,7 +3,6 @@
 **********
 
 - 👀 Interested in learning New Technology, Explore New Concepts
-- 🌱 I’m currently learning Development of Advanced Computing at CDAC
 - 💞️ Interested to collaborate on New Concepts & Development Projects.
 
 ***************
