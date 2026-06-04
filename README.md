@@ -2,9 +2,12 @@
 
 **********
 
-- 👀 Interested in learning New Technology, Explore New Concepts
-- 💞️ Interested to collaborate on New Concepts & Development Projects.
+As a Multidisciplinary Engineer with a passion for innovation, I bring a unique blend of skills that extend beyond traditional engineering boundaries. In software engineering and development practices, I excel in implementing the entire software development life cycle (SDLC) with a keen ability to adapt to new technologies seamlessly.
 
+My interests span across Product Development, Operating Systems, Networking, Databases, Cross-Platform Software, New Product Design, Research & Development, AI Integration for Automation
+
+Driven by a perpetual desire to learn, I thrive on exploring the unknown, cultivating a deep curiosity that fuels my professional growth. 
+Let's connect and explore opportunities to innovate and contribute together! 🚀
 
 <!---
 - 📫 You can reach me at [LinekdIn](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
@@ -17,10 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
