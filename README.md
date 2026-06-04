@@ -5,15 +5,12 @@
 - 👀 Interested in learning New Technology, Explore New Concepts
 - 💞️ Interested to collaborate on New Concepts & Development Projects.
 
-***************
 
 <!---
 - 📫 You can reach me at [LinekdIn](https://in.linkedin.com/in/durgeshwagh?trk=people-guest_people_search-card)
 waghdurgesh/waghdurgesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waghdurgesh" alt="waghdurgesh" /></a> </p>
 
 *******
 <h3>🛠️Languages & Tools🛠️</h3>
@@ -58,12 +55,6 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwagh)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waghdurgesh&show_icons=true&locale=en&layout=compact" alt="waghdurgesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waghdurgesh&show_icons=true&locale=en" alt="waghdurgesh" /></p>
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20views&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 
