@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwagh)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 
