@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile&color=0e75b6&style=flat" alt="waghdurgesh" /> </p> -->
 
 
 
