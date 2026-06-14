@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Durgesh Wagh</h1>
 
 
-As a Multidisciplinary Engineer with a passion for innovation, I bring a unique blend of skills that extend beyond traditional engineering boundaries. In software engineering and development practices, I excel in implementing the entire SDLC with a keen ability to adapt to new technologies seamlessly.
+As an Engineer with a passion for innovation, I bring a unique blend of skills that extend beyond traditional engineering boundaries. In software engineering and development practices, I excel in implementing the entire SDLC with a keen ability to adapt to new technologies seamlessly.
 
 My interests span across Product Development, Operating Systems, Networking, Databases, Cross-Platform Software, New Product Design, Research & Development, AI Integration for Automation
 
