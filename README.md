@@ -34,6 +34,19 @@ You can click the Preview link to take a look at your changes.
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ******
+<h3>💻 Check Out My Open Source Projects 💻</h3>
+
+Thanks for stopping by! If you're interested in software design, system design, or AI development, be sure to explore my other repositories.
+
+⭐ Don't forget to star the projects you find useful!
+
+🔗 [Design Patterns For All](https://github.com/waghdurgesh/design-patterns-for-all)
+
+🔗 [Redmine Redcase MCP AI agent](https://github.com/waghdurgesh/redmine-redcase-mcp-ai-agent)
+
+🔗 [daccoder- Coding Assessment Portal](https://github.com/waghdurgesh/daccoder-coding-assessment-portal)
+
+******
 
 <h3>🔗We can connect at🔗</h3>
 
