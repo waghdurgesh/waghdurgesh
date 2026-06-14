@@ -12,6 +12,18 @@ waghdurgesh/waghdurgesh is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<h2>💻 Check Out My Open Source Projects 💻</h2>
+
+Thanks for stopping by! If you're interested in software design, system design, or AI development, be sure to explore my other repositories.
+
+⭐ Don't forget to star the projects you find useful!
+
+🔗 [Design Patterns For All](https://github.com/waghdurgesh/design-patterns-for-all)
+
+🔗 [Redmine Redcase MCP AI agent](https://github.com/waghdurgesh/redmine-redcase-mcp-ai-agent)
+
+🔗 [daccoder- Coding Assessment Portal](https://github.com/waghdurgesh/daccoder-coding-assessment-portal)
+
 <h2>🚀 Tech Stack 🚀</h2>
 
 <div align="center">
@@ -55,18 +67,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<h2>💻 Check Out My Open Source Projects 💻</h2>
-
-Thanks for stopping by! If you're interested in software design, system design, or AI development, be sure to explore my other repositories.
-
-⭐ Don't forget to star the projects you find useful!
-
-🔗 [Design Patterns For All](https://github.com/waghdurgesh/design-patterns-for-all)
-
-🔗 [Redmine Redcase MCP AI agent](https://github.com/waghdurgesh/redmine-redcase-mcp-ai-agent)
-
-🔗 [daccoder- Coding Assessment Portal](https://github.com/waghdurgesh/daccoder-coding-assessment-portal)
-
 
 <h2>🤝Let's Connect & Create Something Awesome!🤝</h2>
 
@@ -77,8 +77,6 @@ Thanks for stopping by! If you're interested in software design, system design, 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20Visitors&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 </div>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p> -->
-
-
 
 
 
