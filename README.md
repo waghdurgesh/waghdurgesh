@@ -12,7 +12,6 @@ waghdurgesh/waghdurgesh is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>💻 Check Out My Open Source Projects 💻</h2>
 
 Thanks for stopping by! If you're interested in software design, system design, or AI development, be sure to explore my other repositories.
 
