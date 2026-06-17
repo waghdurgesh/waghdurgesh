@@ -23,6 +23,7 @@ Thanks for stopping by! If you're interested in software design, system design, 
 
 🔗 [daccoder- Coding Assessment Portal](https://github.com/waghdurgesh/daccoder-coding-assessment-portal)
 
+<!---
 <h2>🚀 Tech Stack 🚀</h2>
 
 <div align="center">
@@ -65,7 +66,7 @@ Thanks for stopping by! If you're interested in software design, system design, 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
-
+--->
 
 <h2>🤝Let's Connect & Create Something Awesome!🤝</h2>
 
