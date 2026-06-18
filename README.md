@@ -72,7 +72,7 @@ Thanks for stopping by! If you're interested in software design, system design, 
 
 <div align="center">
   
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-13k%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/durgeshwagh)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-13k+-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/durgeshwagh)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20Visitors&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 </div>
