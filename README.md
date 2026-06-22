@@ -74,7 +74,7 @@ Thanks for stopping by! If you're interested in software design, system design, 
   
 [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-13k+-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/durgeshwagh)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile%20Visitors&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Visitors&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 </div>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p> -->
 
