@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Profile&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
 <h1 align="center">👋 Hi, I’m Durgesh Wagh</h1>
 
 
@@ -68,13 +69,13 @@ Thanks for stopping by! If you're interested in software design, system design, 
 </div>
 --->
 
-<h2>🤝Let's Connect & Create Something Awesome!🤝</h2>
+<h2>🤝Let's Connect & Create Something Awesome!</h2>
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-13k+-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/durgeshwagh)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Visitors&color=0e75b6&style=flat" alt="waghdurgesh" /> </p>
+
 </div>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waghdurgesh&" alt="waghdurgesh" /></p> -->
 
